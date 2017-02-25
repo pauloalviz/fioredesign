@@ -1,8 +1,6 @@
-AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
-[Sat Feb 25 21:42:53.712526 2017] [mpm_event:notice] [pid 45:tid 140684162054016] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
-[Sat Feb 25 21:42:53.713304 2017] [core:notice] [pid 45:tid 140684162054016] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
-[Sat Feb 25 21:49:23.719966 2017] [mpm_event:notice] [pid 45:tid 140684162054016] AH00491: caught SIGTERM, shutting down
-[Sat Feb 25 21:49:24.839669 2017] [mpm_event:notice] [pid 1278:tid 140692610897792] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
-[Sat Feb 25 21:49:24.840967 2017] [core:notice] [pid 1278:tid 140692610897792] AH00094: Command line: '/usr/sbin/apache2'
-[Sat Feb 25 21:57:46.636506 2017] [proxy_fcgi:error] [pid 1282:tid 140692340840192] [client 127.0.0.1:53148] AH01071: Got error 'Primary script unknown\n'
-[Sat Feb 25 22:11:25.544750 2017] [proxy_fcgi:error] [pid 1282:tid 140692495517440] [client 127.0.0.1:54860] AH01071: Got error 'Primary script unknown\n'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Feb 25 23:38:11.730181 2017] [mpm_event:notice] [pid 37:tid 140413226141568] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sat Feb 25 23:38:11.730821 2017] [core:notice] [pid 37:tid 140413226141568] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Feb 25 23:41:19.925526 2017] [mpm_event:notice] [pid 37:tid 140413226141568] AH00491: caught SIGTERM, shutting down
+[Sat Feb 25 23:41:20.993010 2017] [mpm_event:notice] [pid 1221:tid 140618341242752] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sat Feb 25 23:41:20.993549 2017] [core:notice] [pid 1221:tid 140618341242752] AH00094: Command line: '/usr/sbin/apache2'
